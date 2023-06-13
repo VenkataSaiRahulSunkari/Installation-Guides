@@ -30,3 +30,6 @@ To take a backup of Solr deployed on a Google Cloud Dataproc cluster that uses H
   
 Remember to adjust the commands according to your specific setup and environment, including the paths, collection names, and backup locations.
 It's also worth noting that taking regular backups is essential for data protection. Consider automating the backup process using scripts or scheduling the backup tasks to ensure data consistency and availability in case of any issues or failures.
+
+## References
+- [hdfs-vs-cloud-storage-pros-cons-and-migration-tips](https://cloud.google.com/blog/products/storage-data-transfer/hdfs-vs-cloud-storage-pros-cons-and-migration-tips)
